@@ -1,7 +1,0 @@
-./main.cpp
-./options.cpp
-./read_file.cpp
-./recursive_file_search.cpp
-./char_read2.cpp
-./char_read.cpp
-./skuska.cpp
