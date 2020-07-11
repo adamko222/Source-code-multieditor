@@ -569,7 +569,7 @@ void Further_Search(std::string_view &STRING, const int &SubstrLength,
 
 int main() {
 
-  std::string filename = "text.txt";
+  std::string filename = "options.cpp";
   std::ifstream file(filename, std::ios::in);
 
   // size of file to reserve buffer, additional +1024 chars for inserting
