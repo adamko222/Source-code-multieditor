@@ -1,2 +1,0 @@
-int adam = 5;
-class vector;
